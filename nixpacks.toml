@@ -1,2 +1,0 @@
-[phases.install]
-cmds = ["gem install bundler -v '<= 1.17.3' --no-rdoc --no-ri", "bundle install"]
